@@ -1,2 +1,2 @@
 # Arduino Sheep Arcade
-My Arduino demo arcade
+My Arduino arcade
