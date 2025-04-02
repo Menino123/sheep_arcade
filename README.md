@@ -1,2 +1,2 @@
 # sheep_arcade
-My demo arcade
+My Arduino demo arcade
